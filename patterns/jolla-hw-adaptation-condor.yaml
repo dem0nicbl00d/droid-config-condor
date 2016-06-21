@@ -16,6 +16,7 @@ Requires:
 - droid-config-condor-policy-settings
 - droid-config-condor-preinit-plugin
 - droid-hal-version-condor
+- droid-hal-condor-detritus
 
 - pulseaudio-modules-droid
 # for audio recording to work:
